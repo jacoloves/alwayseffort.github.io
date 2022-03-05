@@ -1,7 +1,11 @@
 # alwayseffort
 
-## [AtCoder ABC 224 C - Triangle?s](202203/3.md)
-2022/03/01
+## [AtCoder ABC 242 B - Minimize Ordering](202203/6.md)
+2022/03/06
+## [AtCoder ABC 242 A - T-shirt](202203/5.md)
+2022/03/05
+## [AtCoder ABC 224 C - Triangle?](202203/3.md)
+2022/03/03
 ## [AtCoder ABC 224 B - Mongeness](202203/1.md)
 2022/03/01
 ## [AtCoder ABC 224 A - Tires](202202/28.md)
