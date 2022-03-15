@@ -1,5 +1,9 @@
 # alwayseffort
 
+アルゴリズムと学習メモがごちゃまぜ
+
+## [AtCoder ABC 227 A - Last Card](202203/15.md)
+2022/03/15
 ## [AtCoder ABC 242 B - Minimize Ordering](202203/6.md)
 2022/03/06
 ## [AtCoder ABC 242 A - T-shirt](202203/5.md)
