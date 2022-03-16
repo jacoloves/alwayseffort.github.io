@@ -2,6 +2,8 @@
 
 アルゴリズムと学習メモがごちゃまぜ
 
+## [DockerでRustの開発環境を作る](202203/16.md)
+2022/03/16
 ## [AtCoder ABC 227 A - Last Card](202203/15.md)
 2022/03/15
 ## [AtCoder ABC 242 B - Minimize Ordering](202203/6.md)
