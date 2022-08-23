@@ -2,6 +2,30 @@
 
 アルゴリズムと学習メモがごちゃまぜ
 
+## [arch linux is difficult](202208/2022-08-22.md)
+2022/08/22
+## [my new gear](202208/2022-08-20.md)
+2022/08/20
+## [Gyudon is good](202208/2022-08-19.md)
+2022/08/19
+## [I don't know CSS](202208/2022-08-18.md)
+2022/08/18
+## [blog draft](202208/2022-08-17.md)
+2022/08/17
+## [Summer vacation finished](202208/2022-08-16.md)
+2022/08/16
+## [Did a little work](202208/2022-08-14.md)
+2022/08/14
+## [I atended Program tournament](202208/2022-08-13.md)
+2022/08/13
+## [I studied a small software in Rust](202208/2022-08-12.md)
+2022/08/12
+## [Summer vacation's 1st day is perfect](202208/2022-08-11.md)
+2022/08/11
+## [Summer vacation is exciting me](202208/2022-08-10.md)
+2022/08/10
+## [I studied CCNA exam in Mokumoku](202208/2022-08-09.md)
+2022/08/9
 ## [Goで何作るか考える - 1年も半分折り返したので進捗を確認する](202207/12.md)
 2022/07/12
 ## [アルゴリズム魚拓19日目](202207/1.md)
