@@ -1,7 +1,8 @@
 # alwayseffort
 
 アルゴリズムと学習メモがごちゃまぜ
-
+## [Rust is good language](202211/2022-11-08.md)
+2022/11/8
 ## [arch linux is difficult](202208/2022-08-22.md)
 2022/08/22
 ## [my new gear](202208/2022-08-20.md)
