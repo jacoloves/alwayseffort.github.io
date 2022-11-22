@@ -1,6 +1,9 @@
 # alwayseffort
 
 アルゴリズムと学習メモがごちゃまぜ
+
+## [TCP/IP is very difficult](202211/2022-11-21.md)
+2022/11/21
 ## [Rust is good language](202211/2022-11-08.md)
 2022/11/8
 ## [arch linux is difficult](202208/2022-08-22.md)
