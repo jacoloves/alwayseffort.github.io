@@ -2,6 +2,8 @@
 
 アルゴリズムと学習メモがごちゃまぜ
 
+## [shell written in rust](202304/2023-04-16.md)
+2023/04/16
 ## [include original librarlu](202301/2023-01-29.md)
 2023/01/29
 ## [TRPL is difficult book](202301/2023-01-27.md)
