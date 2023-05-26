@@ -2,6 +2,8 @@
 
 アルゴリズムと学習メモがごちゃまぜ
 
+## [Linux is a good os](202305/2023-05-27.md)
+2023/05/27
 ## [shell written in rust](202304/2023-04-16.md)
 2023/04/16
 ## [include original librarlu](202301/2023-01-29.md)
